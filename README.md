@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Gobinda 👋
 
-<!--
-**gobinda1547/gobinda1547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here you'll find a collection of my projects, contributions, and experiments. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+
+![Gobinda's GitHub stats](https://github-readme-stats.vercel.app/api?username=gobinda1547&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobinda1547&layout=compact&theme=radical)
+
+Thanks for visiting my profile, and happy coding!
