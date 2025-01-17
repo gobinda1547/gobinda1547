@@ -47,6 +47,31 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 </table>
 
 
+## Tech Stack
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <th style="text-align: center;">Category</th>
+    <th style="text-align: center;">Languages</th>
+    <th style="text-align: center;">Frameworks & Libraries</th>
+  </tr>
+  <tr>
+    <td>Web Development</td>
+    <td>JavaScript, TypeScript</td>
+    <td>NestJS, Prisma, MongoDB</td>
+  </tr>
+  <tr>
+    <td>Android Development</td>
+    <td>Kotlin, Java</td>
+    <td>Jetpack Compose, Hilt, Retrofit, Room, Firebase, WebRTC</td>
+  </tr>
+  <tr>
+    <td>iOS Development</td>
+    <td>Swift, Objective-C</td>
+    <td>SwiftUI, UIKit, CoreData, Alamofire, Firebase</td>
+  </tr>
+</table>
+
 ## Programming Languages
 
 <table style="width: 100%; text-align: center;">
