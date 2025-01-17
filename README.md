@@ -44,6 +44,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
     <td>A simple Android currency converter app demonstrating the use of MVVM design, dependency injection and network call.</td>
     <td><a href="https://github.com/gobinda1547/Currency-Converter-Android-App">Currency converter app</a></td>
   </tr>
+  <tr>
+    <td>Android</td>
+    <td>Kotlin, Jetpack Compose, Hilt, MVI, Firebase</td>
+    <td>An Android app for managing Hazari cards game. Published in Google playstore (4.6 ratings and 50K+ downloads)</td>
+    <td><a href="https://play.google.com/store/apps/details?id=com.ashtray.hazaricalculator&hl=en">HazMan</a></td>
+  </tr>
 </table>
 
 
