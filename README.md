@@ -1,4 +1,4 @@
-# Hi there, I'm Gobinda 👋
+# Hi 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and learning new technologies. Here you'll find a collection of my projects, contributions, and experiments. Feel free to explore and reach out if you have any questions or collaboration ideas!
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   </tr>
   <tr>
     <td>Android</td>
-    <td>Admob</td>
+    <td>Admob, Kotlin</td>
     <td>An Android SDK to easily integrate Google's Admob feature into your native android project.</td>
     <td><a href="https://github.com/gobinda1547/AdmobNativeTemplate">Admob Native Template Lib</a></td>
   </tr>
@@ -47,11 +47,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 </table>
 
 
-## Programming Languages I Know
+## Programming Languages
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <th>Language</th>
     <th>Python</th>
     <th>Kotlin</th>
     <th>Java</th>
@@ -59,10 +58,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
     <th>C++</th>
     <th>Swift</th>
     <th>Objective-C</th>
+    <th>JavaScript</th>
     <th>TypeScript</th>
   </tr>
   <tr>
-    <th>Logo</th>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" style="width: 40px; height: 40px;" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 40px; height: 40px;" /></td>
@@ -70,6 +69,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 40px; height: 40px;" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" style="width: 40px; height: 40px;" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="Objective-C" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" style="width: 40px; height: 40px;" /></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width: 40px; height: 40px;" /></td>
   </tr>
 </table>
