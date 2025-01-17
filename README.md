@@ -11,4 +11,38 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   </div>
 </div>
 
+## Best Personal Projects
+
+<table style="width: 100%;">
+  <tr>
+    <th>Type</th>
+    <th>Tech</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Kotlin, Firebase, WebRTC</td>
+    <td>An Android library for online games enhancing match making and realtime data transfer.</td>
+    <td><a href="https://github.com/gobinda1547/MatchMakingTest">MatchMaking Lib</a></td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Admob</td>
+    <td>An Android SDK to easily integrate Google's Admob feature into your native android project.</td>
+    <td><a href="https://github.com/gobinda1547/AdmobNativeTemplate">Admob Native Template Lib</a></td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Kotlin, Jetpack Compose, Hilt, MVVM, Room DB</td>
+    <td>A simple Android notepad app demonstrating the power of Jetpack compose and modern Android technologies and best practices.</td>
+    <td><a href="https://github.com/gobinda1547/Notepad-Android-App">NotePad App</a></td>
+  </tr>
+  <tr>
+    <td>Android</td>
+    <td>Kotlin, Jetpack Compose, Hilt, MVVM, Retrofit</td>
+    <td>A simple Android currency converter app demonstrating the use of MVVM design, dependency injection and network call.</td>
+    <td><a href="https://github.com/gobinda1547/Currency-Converter-Android-App">Currency converter app</a></td>
+  </tr>
+</table>
+
 Thanks for visiting my profile, and happy coding!
