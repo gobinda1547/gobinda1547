@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
     <th>Type</th>
     <th>Tech</th>
     <th>Details</th>
+    <th>Link</th>
   </tr>
   <tr>
     <td>Android</td>
@@ -42,6 +43,34 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
     <td>Kotlin, Jetpack Compose, Hilt, MVVM, Retrofit</td>
     <td>A simple Android currency converter app demonstrating the use of MVVM design, dependency injection and network call.</td>
     <td><a href="https://github.com/gobinda1547/Currency-Converter-Android-App">Currency converter app</a></td>
+  </tr>
+</table>
+
+
+## Programming Languages I Know
+
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <th>Language</th>
+    <th>Python</th>
+    <th>Kotlin</th>
+    <th>Java</th>
+    <th>C</th>
+    <th>C++</th>
+    <th>Swift</th>
+    <th>Objective-C</th>
+    <th>TypeScript</th>
+  </tr>
+  <tr>
+    <th>Logo</th>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/objectivec/objectivec-plain.svg" alt="Objective-C" style="width: 40px; height: 40px;" /></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" style="width: 40px; height: 40px;" /></td>
   </tr>
 </table>
 
